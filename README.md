@@ -5,7 +5,7 @@ Other wallpapers
 Automatic install/update:
   
 ```shell
-bash -c "$(curl -LSs https://github.com/wallpapermgr/Other/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/wallpapermgr/Other/raw/main/install.sh)"
 ```
   
 Manual install:
